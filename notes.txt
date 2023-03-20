@@ -1,0 +1,26 @@
+reservation details
+
+- parent name
+- child name
+-number of children
+-address of the party
+-date of reservation
+-length in hours of reservation
+
+
+wants all reservations listed in chronological order 
+closest date first 
+
+ability to delete reservation requests
+
+ability to choose which clown filled the reservation 
+
+
+need some form for reservations
+    inputs 
+    - parent name
+    - child name
+    -number of children
+    -address of the party
+    -date of reservation
+    -length in hours of reservation

@@ -1,0 +1,17 @@
+{
+    "clowns": [
+     {
+        "id": 1,
+        "name": "Buttons the Clown"
+
+     },
+     {
+        "id": 2,
+        "name": "Lollipop the clown"
+     }
+    ],
+    "completedReservations": [],
+    "reservationRequest": [
+      
+    ]
+  }
